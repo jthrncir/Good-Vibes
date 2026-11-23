@@ -5,10 +5,6 @@ file = "config/iris.properties"
 hash = "c561e38b5c9d909e8508c8976f27520ec7b1b76a259aa9f6479c6232ba3e1b9e"
 
 [[files]]
-file = "make.ps1"
-hash = "6ce9515e4c1422f29e63077750fe00034ed80d2c39b7aac6ba4f12265eb9fa84"
-
-[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "220a55f27ae0b5dbcf111bc720ff9b0e3c1255b095dcc80ec77f25bc7bc0d07d"
 metafile = true
