@@ -1,0 +1,8 @@
+packwiz.exe
+*.mrpack
+*.ps1
+*.bat
+.git/**
+.gitattributes
+.gitignore
+README.md

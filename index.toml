@@ -1,0 +1,118 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/iris.properties"
+hash = "c561e38b5c9d909e8508c8976f27520ec7b1b76a259aa9f6479c6232ba3e1b9e"
+
+[[files]]
+file = "make.ps1"
+hash = "6ce9515e4c1422f29e63077750fe00034ed80d2c39b7aac6ba4f12265eb9fa84"
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "220a55f27ae0b5dbcf111bc720ff9b0e3c1255b095dcc80ec77f25bc7bc0d07d"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "ff675667f4c6924a9eaebc42dc2df5306dc5e8b005e931d9d8b73cebad67d5eb"
+metafile = true
+
+[[files]]
+file = "mods/autohud.pw.toml"
+hash = "c304d27a5d506877161257db73f64881e7aa163a99103b913d902d060c008d71"
+metafile = true
+
+[[files]]
+file = "mods/cameraoverhaul.pw.toml"
+hash = "3b24cee83da9833975306a4312e14b1608c90ff2a20ae2f0e62d7fffe638d75e"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "2b9727522c90a979eb9671ad7c5421443d91391b0697d1772146e6bfa19cb3c1"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "e1d2c5cd8021b81b16ec7d09302ad6ee7420bfecae68d39bc1ba035aebb3ed35"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "a2e8fe08070fb7e51d4df786530f6599a4e84c18bd80dc9a04d9375b75967465"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "fb72a70cb53c63f1da4520c25c8a7d806cc1c733e827016615623b65d751852d"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "1811d49906aa7a1e7f1230535c6fec91be45129d028f7900cf35571a497e42b3"
+metafile = true
+
+[[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "ad510531885c9c685ddf76ad3f4a329647eb31077e3a0374008cd5224874e189"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "3af2426b8d83a5fcda1ff6de2035d53bcff532653c196f2ea6d7647995e45131"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "3feb5af047a7aabdcbae76e59f0c6603c61ef093d19c44f6d3ad76b48272a6dc"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "353e7e6605f04764a8fc7f18d7e1833ffd23301f23509a85482654f467fb696f"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "4d3d2ad41a037af6f78e2a6c2908c4098bb0b5c03ad0d2711a0c0c6df5e7a172"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "6c89f76f99a7e240983e3be3b97ef65c2fb31f4774d81927483ba49babf049b2"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "bb4973c272697eed8d5d556420659b04c4f9c146c16b19c6162269e45c78f652"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-perfected.pw.toml"
+hash = "bb9af64c5e8919cbe1a1054e594d0b3603c21aee30ab2691a763efdacbcd3ae8"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "7b82bfcde20d2ac0fb158c003caf5288523272ca462f519864ee424912e4e4dd"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "15bec6a102b4dcf9470ba80b3ce9992fb9e67d2c19b17773e23ad98c15618ec2"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "2d5c9b7a8a002bc8e4e12323ae4ad88feafeb288ca225bf362db54ace482c07b"
+
+[[files]]
+file = "resourcepacks/spbr.pw.toml"
+hash = "415b731ed2bdfac38fcc6c1db1f595111ffc4a11190b883e71d3b986fc2d0745"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bliss-shader.pw.toml"
+hash = "f25a34e083b05071711bb97464a0bd6c2f5fc6e4c0bc650ee2d133508c21a868"
+metafile = true

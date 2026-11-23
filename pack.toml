@@ -1,0 +1,13 @@
+name = "Good Vibes"
+author = "Apersn"
+version = "1.2.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d33547f5b46eda8e55fdd6c345593bbe9507a875acc7c6e13b866e749bf2728b"
+
+[versions]
+fabric = "0.20.1"
+minecraft = "26.3"

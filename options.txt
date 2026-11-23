@@ -1,0 +1,1 @@
+resourcePacks:["vanilla","fabric","file/SPBR-22_6.zip"]
